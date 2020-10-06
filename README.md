@@ -14,4 +14,6 @@ My English is not very good,Soryy <3
 
 Have Fun ~
 
+Don't chang mt script name PLZ
+
 You will be a good server owner
