@@ -2,18 +2,18 @@
 FiveM Admin Job For ESX
 By Taiwanese 
 
-You can chang you language in locales
+You can change your language in "locales"
 
-The en.lua now is chang to chinese i am so sorry 
+The en.lua now is change to chinese i am so sorry 
 
-If you want to use english in your server you can tell with me or you can do youself
+If you want to use english in your server you can tell me or you can do that by youself
 
 Thank you for use my script 
 
-My English is not very good,Soryy <3
+My English is bad,Sorry <3
 
 Have Fun ~
 
-Don't chang mt script name PLZ
+Don't change my script name PLZ
 
-You will be a good server owner
+u will be a good server owner
